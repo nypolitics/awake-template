@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Political NY',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  tagline: 'The Resource for New York Politics',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
